@@ -26,6 +26,6 @@ I'm a passionate software engineer with experience in PHP, Python, java, html, c
 
 ## Get in Touch 📬
 
-- https://www.linkedin.com/in/homaira-sharmin-411455128/
+- https://www.linkedin.com/in/homaira-sharmin/
 
 
