@@ -1,6 +1,6 @@
 # Hi there, I'm Homaira Sharmin! 👋
 
-![HTML](https://github.com/Homaira/homaira/blob/main/ChatGPT%20Image%20Apr%206%2C%202026%2C%2005_29_39%20PM.png)
+![Bannerimage](https://github.com/Homaira/homaira/blob/main/ChatGPT%20Image%20Apr%206%2C%202026%2C%2005_29_39%20PM.png)
 
 ## About Me 🚀
 
