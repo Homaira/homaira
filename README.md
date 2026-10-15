@@ -1,16 +1,26 @@
-# Hi there, I'm Homaira Sharmin! 👋
+# Hi, I'm Homaira 👋
 
 ![Bannerimage](https://github.com/Homaira/homaira/blob/main/ChatGPT%20Image%20Apr%206%2C%202026%2C%2005_29_39%20PM.png)
 
-## About Me 🚀
+A software engineer in Dhaka, now building AI-powered products with Python.
 
-I'm a passionate software engineer with experience in PHP, Python, java, html, css, js, android app development. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+## What I build
+- Custom WordPress & WooCommerce plugins, Gutenberg blocks
+- Laravel web apps and SaaS dashboards
+- AI features: LLM pipelines, evaluation, and automation (Python)
 
-- 🌱 Currently learning: AI, ML
-- 🔭 Working on: Worpdress custom plugin development, laravel web app development
-- 🌍 Languages: PHP, Python, English, Bangla
-- 📫 How to reach me: homaira.sharmin68@gmail.com
-- ⚡ Fun fact: like all coders I am a introvert nerd
+## Featured
+- **[WooCommerce AI Content Engine](link)** – bulk product copy in a store's brand voice, with an approval queue (in progress)
+- **[support-triager](https://github.com/Homaira/support-triager)** – Python support-ticket triage
+
+## Stack
+PHP · Laravel · WordPress · WooCommerce · Python · JavaScript · MySQL
+
+## Currently
+Finishing an AI/ML engineering course and shipping my first AI SaaS.
+
+## Get in Touch 📬
+📫 [LinkedIn](https://www.linkedin.com/in/homaira-sharmin/)
 
 ## My Skills 🧠
 
@@ -23,9 +33,5 @@ I'm a passionate software engineer with experience in PHP, Python, java, html, c
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
-
-## Get in Touch 📬
-
-- https://www.linkedin.com/in/homaira-sharmin/
 
 
